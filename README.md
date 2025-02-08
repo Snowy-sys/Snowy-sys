@@ -33,11 +33,11 @@
 ---
 
 #### :computer: My projects :
-****Front-end:****
-//Add information soon
 
 ****Back-end:****
-//Add information soon
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="40" height="40"/> : pl/sql. Yandex Project #1
+
+
 
 ---
 
