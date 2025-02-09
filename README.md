@@ -1,11 +1,14 @@
 # :man_technologist: Hi there! I'm Maksim Nikulin
-**I'm lead of QA engineers in our team at ООО "АльфаСтрахование-Жизнь". I create and implement from scratch automative testing in our company. We've been developing tests for web back/front-end**
+**I'm senior QA engineers in our team at ООО "АльфаСтрахование-Жизнь". In the near future, I gradually plan to become a professional developer, starting with learning the pl/sql language. In my free time, I am interested in implementing automated testing in our team, and I study programming languages such as Java, JavaScript, Python, and Kotlin.**
 
 ## :gear: Tech stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Oracle" alt="postgresql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>
+  
+  
+ 
 </div>
 
 ### :hammer_and_wrench: Tools:
@@ -21,42 +24,27 @@
   <img src="https://notepad-plus-plus.org/images/logo.svg" title="Notepad" alt="Notepad" width="40" height="40"/>
 </div>
 
-### :file_folder: The main libraries:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
-  <img src="https://sdcast.ksdaemon.ru/wp-content/uploads/2017/03/selenide-logo-big.png" title="Selenide" alt="Selenide" width="40" height="40"/>
-  <img src="https://github.com/allure-framework/allure2/blob/main/.idea/icon.png" title="Allure" alt="Allure" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML" alt="XML" width="40" height="40"/>
-  <img src="https://downloads.marketplace.jetbrains.com/files/21606/505779/icon/pluginIcon.svg" title="TestNG" alt="TestNG" width="40" height="40"/>
-</div>
-
 ---
 
-#### :computer: My projects :
+### :computer: My projects:
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> [PL/SQL. Yandex Project #1](https://github.com/Snowy-sys/plSQL-YandexProject-1)
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> PL/SQL
 </div>
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> [PL/SQL. Yandex Project #2](https://github.com/Snowy-sys/plSQL-YandexProject-2)
-</div>
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> [PL/SQL. Yandex Project #3](https://github.com/Snowy-sys/plSQL-YandexProject-3)
-</div>
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> [PL/SQL. Yandex Project #4.1](https://github.com/Snowy-sys/plSQL-YandexProject-4.1)
-</div>
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> [PL/SQL. Yandex Project #4.2](https://github.com/Snowy-sys/plSQL-YandexProject-4.2)
-</div>
+
+* [Yandex Project #1](https://github.com/Snowy-sys/plSQL-YandexProject-1) - project based on sql skills: ddl & dml.
+* [Yandex Project #2](https://github.com/Snowy-sys/plSQL-YandexProject-2) - project basen on cte construction aimed to train more advanaced sql skills along with postgresql postgis extension.
+* [Yandex Project #3](https://github.com/Snowy-sys/plSQL-YandexProject-3) - project based on pl/sql functions, triggers, procedures aimed to train server-side sql development
+* [Yandex Project #4.1](https://github.com/Snowy-sys/plSQL-YandexProject-4.1) - pre-final part of pl/sql-projects aimed to train database optimization (structure).
+* [Yandex Project #4.2](https://github.com/Snowy-sys/plSQL-YandexProject-4.2) - final part of pl/sql-projects aimed to train db optimization (queries).
 
 
 ---
 
-#### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snowy-sys&theme=iceberg&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+### 📰 My certifications:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowy-sys&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+**Yandex Practicum:**
+- [Maksim Nikulin_20242DSQL00048.pdf](https://github.com/user-attachments/files/18723995/Maksim.Nikulin_20242DSQL00048.1.pdf) - Certificate of Completion of the "SQL for Development" Professional Training Course.
 
 
 
