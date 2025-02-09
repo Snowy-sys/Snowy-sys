@@ -35,19 +35,19 @@
 #### :computer: My projects :
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> PL/SQL. Yandex Project #1
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> [PL/SQL. Yandex Project #1](https://github.com/Snowy-sys/plSQL-YandexProject-1)
 </div>
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> PL/SQL. Yandex Project #2
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> [PL/SQL. Yandex Project #2](https://github.com/Snowy-sys/plSQL-YandexProject-2)
 </div>
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> PL/SQL. Yandex Project #3
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> [PL/SQL. Yandex Project #3](https://github.com/Snowy-sys/plSQL-YandexProject-3)
 </div>
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> PL/SQL. Yandex Project #4.1
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> [PL/SQL. Yandex Project #4.1](https://github.com/Snowy-sys/plSQL-YandexProject-4.1)
 </div>
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> PL/SQL. Yandex Project #4.2
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> [PL/SQL. Yandex Project #4.2](https://github.com/Snowy-sys/plSQL-YandexProject-4.2)
 </div>
 
 
