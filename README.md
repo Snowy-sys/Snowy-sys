@@ -1,5 +1,5 @@
 # :man_technologist: Hi there! I'm Maksim Nikulin
-**I'm senior QA engineers in our team at ООО "АльфаСтрахование-Жизнь". In the near future, I gradually plan to become a professional developer, starting with learning the pl/sql language. In my free time, I am interested in implementing automated testing in our team, and I study programming languages such as Java, JavaScript, Python, and Kotlin.**
+**I'm senior QA engineer in our team at ООО "АльфаСтрахование-Жизнь". In the near future, I gradually plan to become a professional developer, starting with learning the pl/sql language. In my free time, I am interested in implementing automated testing in our team, and I study programming languages such as Java, JavaScript, Python, and Kotlin.**
 
 ## :gear: Tech stack:
 <div>
