@@ -38,6 +38,9 @@
 * [Yandex Project #4.1](https://github.com/Snowy-sys/plSQL-YandexProject-4.1) - pre-final part of pl/sql-projects aimed to train database optimization (structure).
 * [Yandex Project #4.2](https://github.com/Snowy-sys/plSQL-YandexProject-4.2) - final part of pl/sql-projects aimed to train db optimization (queries).
 
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="20" height="20"/> JAVA
+</div>
 
 ---
 
