@@ -32,16 +32,23 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> PL/SQL
 </div>
 
+Educational Projects:
 * [Yandex Project #1](https://github.com/Snowy-sys/plSQL-YandexProject-1) - project based on sql skills: ddl & dml.
 * [Yandex Project #2](https://github.com/Snowy-sys/plSQL-YandexProject-2) - project basen on cte construction aimed to train more advanaced sql skills along with postgresql postgis extension.
 * [Yandex Project #3](https://github.com/Snowy-sys/plSQL-YandexProject-3) - project based on pl/sql functions, triggers, procedures aimed to train server-side sql development
-* [Yandex Project #4.1](https://github.com/Snowy-sys/plSQL-YandexProject-4.1) - pre-final part of pl/sql-projects aimed to train database optimization (structure).
-* [Yandex Project #4.2](https://github.com/Snowy-sys/plSQL-YandexProject-4.2) - final part of pl/sql-projects aimed to train db optimization (queries).
+
+Graduation Projects:
+* [Yandex Diploma #1](https://github.com/Snowy-sys/plSQL-Diploma-1) - pre-final part of pl/sql-projects aimed to train database optimization (structure).
+* [Yandex Diploma #2](https://github.com/Snowy-sys/plSQL-Diploma-2) - final part of pl/sql-projects aimed to train db optimization (queries).
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="20" height="20"/> JAVA
 </div>
 
+Educational Projects:
+
+
+Graduation Projects:
 ---
 
 ### 📰 My certifications:
