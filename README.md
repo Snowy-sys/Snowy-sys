@@ -4,8 +4,10 @@
 ## :gear: Tech stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Oracle" alt="postgresql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSql" alt="postgresql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>
+  
   
   
  
@@ -13,6 +15,7 @@
 
 ### :hammer_and_wrench: Tools:
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
   <img src="https://images.ctfassets.net/xz1dnu24egyd/3FbNmZRES38q2Sk2EcoT7a/a290dc207a67cf779fc7c2456b177e9f/press-kit-icon.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
   <img src="https://kaiten.ru/assets/img/logo.svg" title="Kaiten" alt="Kaiten" width="40" height="40"/>
@@ -60,6 +63,9 @@ Graduation Projects:
 
 **Yandex Practicum:**
 - [Maksim Nikulin_20242DSQL00048.pdf](https://github.com/user-attachments/files/18723995/Maksim.Nikulin_20242DSQL00048.1.pdf) - Certificate of Completion of the "SQL for Development" Professional Training Course.
+- [Maksim_Nikulin_2025-14942-006.pdf](https://github.com/user-attachments/files/25477266/Diploma_ENG_._2025-14942-006.pdf) - Certificate of Completion of the "Automation QA" Professional Training Course.
+
+
 
 
 
