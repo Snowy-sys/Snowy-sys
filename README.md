@@ -29,7 +29,7 @@
 ### :computer: My projects:
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> PL/SQL
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> **PL/SQL**
 </div>
 
 Educational Projects:
@@ -42,14 +42,19 @@ Graduation Projects:
 * [Yandex Diploma #2](https://github.com/Snowy-sys/plSQL-Diploma-2) - final part of pl/sql-projects aimed to train db optimization (queries).
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="20" height="20"/> JAVA
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="20" height="20"/> **JAVA**
 </div>
 
 Educational Projects:
-
+* [Yandex Project #1](https://github.com/Snowy-sys/java-YandexProject-1) - project focused on building an OOP-based product hierarchy, implementing a shopping cart with price and discount calculations, and demonstrating encapsulation, inheritance, and proper package structure.
+* [Yandex Project #2](https://github.com/Snowy-sys/java-YandexProject-2) - unit testing project for a zoological application using JUnit, Mockito, parameterized tests, and dependency injection, achieving 100% coverage of the Feline, Cat, and Lion classes with JaCoCo.
+* [Yandex Project #3](https://github.com/Snowy-sys/java-YandexProject-3) - automated REST API testing project for the Yandex Scooter service using JUnit 5, RestAssured, and Allure, including parameterized tests, business logic validation, and independent test scenarios.
 
 Graduation Projects:
----
+* [Yandex Diploma #1](https://github.com/Snowy-sys/java-Diploma-1) - final project focused on developing unit tests with mocks, stubs, and parameterization to validate the business logic of the Stellar Burgers application.
+* [Yandex Diploma #2](https://github.com/Snowy-sys/java-Diploma-2) - final project on automated REST API testing of Stellar Burgers using JUnit, RestAssured, and Allure to verify authorization, user management, and order workflows.
+* [Yandex Diploma #3](https://github.com/Snowy-sys/java-Diploma-3) - final project on UI test automation of the Stellar Burgers web application using Selenium WebDriver, the Page Object pattern, cross-browser execution, and Allure reporting.
+
 
 ### 📰 My certifications:
 
