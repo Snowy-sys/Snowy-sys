@@ -29,7 +29,7 @@
 ### :computer: My projects:
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> **PL/SQL**
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="Sql" alt="Sql" width="20" height="20"/> PL/SQL
 </div>
 
 Educational Projects:
@@ -42,7 +42,7 @@ Graduation Projects:
 * [Yandex Diploma #2](https://github.com/Snowy-sys/plSQL-Diploma-2) - final part of pl/sql-projects aimed to train db optimization (queries).
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="20" height="20"/> **JAVA**
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="20" height="20"/> JAVA
 </div>
 
 Educational Projects:
